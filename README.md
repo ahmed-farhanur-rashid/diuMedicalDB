@@ -223,4 +223,4 @@ invoices (
 
 ## Course
 
-**Database Management** — University course project
+**Database Management System** — University course project
