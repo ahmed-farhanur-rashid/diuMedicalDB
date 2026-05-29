@@ -137,7 +137,6 @@ CREATE TABLE invoices (
 );
 
 
-
 #################################################################
 #                        Procedures                             #
 #################################################################
@@ -236,8 +235,6 @@ DELIMITER ;
 #################################################################
 
 
-
-
 -- First, drop the old trigger if it exists
 DROP TRIGGER IF EXISTS generate_invoice;
 
@@ -271,6 +268,4 @@ BEGIN
 END $$
 
 DELIMITER ;
-
-
 
