@@ -6,7 +6,7 @@ A relational database design project for a university medical center, built as p
 
 ## ER Diagram
 
-![ER Diagram](https://raw.githubusercontent.com/ahmed-farhanur-rashid/diuMedicalDB/main/Medical_Center.png)
+![ER Diagram](https://raw.githubusercontent.com/ahmed-farhanur-rashid/diu-medical-center-db/main/er_diagram.png)
 
 > The diagram illustrates entity relationships across students, patients, consultations, prescriptions, transactions, and supporting tables.
 
